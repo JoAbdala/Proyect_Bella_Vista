@@ -1,0 +1,98 @@
+html{
+    margin-top: auto;
+    padding: 20px;
+    margin:10px;
+    background-color: azure;
+}
+
+
+.logo img{
+        display: block;
+        margin: 0 auto;
+        border-radius: 1000px;
+        
+}
+
+.logo{
+    
+    background: linear-gradient(#D0736E,#08583C);
+    
+
+}
+
+ 
+ h1 {
+    color: rgb(247, 56, 13);
+    font-size: 60px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    text-shadow: 10px 10px 9px rgba(8, 9, 1, 0.974);
+    margin-top: 0px;
+
+}
+.entrada img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 25px;
+    width: 80%; /* Aumenta un 30% el ancho */
+    transform: scale(1.0); /* Escala la imagen en un 30% */
+    box-shadow: -10px 10px 10px black; /* Sombra naranja alrededor de la imagen */
+}
+
+h2{
+    color:rgb(247, 56, 13);
+    display:flex;
+    justify-content: center;
+    text-shadow: 10px 10px 9px rgba(8, 9, 1, 0.974);
+
+}
+.titulo{
+    background-color: cadetblue ;
+    margin-top: 0;
+}
+.botton{
+    background-color: #D0736E;
+    color: aliceblue;
+    text-decoration: none;
+    text-align: justify;
+    width: 60px;
+    padding:10px 10px;
+    border-radius: 20px;
+}
+
+.textos p {
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+    text-align: justify; /* Justificar el texto */
+    text-align-last: center; /* Alinear el último párrafo desde el centro */
+    margin-top:50px;
+}
+
+
+.hotel img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 25px;
+    width: 80%; /* Aumenta un 30% el ancho */
+    transform: scale(1.0); /* Escala la imagen en un 30% */
+    box-shadow: -10px 10px 10px black; /* Sombra naranja alrededor de la imagen */
+}
+.iglesia img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 25px;
+    width: 50%; /* Aumenta un 30% el ancho */
+    
+    transform: scale(1); /* Escala la imagen en un 30% */
+    box-shadow: -10px 10px 10px black; /* Sombra naranja alrededor de la imagen */ }
+
+
+
+
+
+
+
+
